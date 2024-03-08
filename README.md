@@ -1,9 +1,9 @@
 ### Hi there! Im geronimo
 
 
-- 🔭 I’m currently looking to work on front-end
-- 🌱 I’m currently learning Js, HTML, CSS and python
-- 📫 Contact me by discord: nanachi9178 or by email: eduardinhoggsouza@gmail.com
+- 🔭 I’m currently looking to work on back-end or fullstack
+- 🌱 I’m currently learning Js, HTML, CSS and python, c#, c++ 
+- 📫 Contact me by discord: nanachi9178 or by email: GeronimoAugustoNsantos
 - 😄 Pronouns: he/him
 
   <div>
