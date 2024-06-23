@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking to work on back-end or fullstack
 - 🌱 I’m currently learning Js, HTML, CSS and python, c#, c++ 
-- 📫 Contact me by discord: nanachi9178 or by email: GeronimoAugustoNsantos
+- 📫 Contact me by discord: nanachi9178 or by email: GeronimoAugustoNsantos@gmail.com
 - 😄 Pronouns: he/him
 
   <div>
