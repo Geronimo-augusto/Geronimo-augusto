@@ -1,8 +1,8 @@
 ### Hi there! Im geronimo
 
 
-- 🔭 I’m currently looking to work on back-end, fullstack or data science
-- 🌱 I’m currently learning Js,python, c# and c++ 
+- 🔭 I’m currently looking to work on back-end or data science
+- 🌱 I’m currently learning Java ,python, c# and c++ 
 - 📫 Contact me by discord: nanachi9178 or by email: GeronimoAugustoNsantos@gmail.com
 - 😄 Pronouns: he/him
 
