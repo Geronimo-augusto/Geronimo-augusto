@@ -8,8 +8,21 @@
 
   <div>
       <a href= "https://github.com/Geronimo-augusto">
-        <img heigth = "180em" src = "https://github-readme-stats.vercel.app/api?username=Geronimo-augusto&show_icons&theme=dark&include_all_comits=true&count_private=true"/>
-        <img heigth = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Geronimo-augusto&layout=compact&langs_count=16&theme=dark"/>
+        <p>
+          <img 
+              align="left" 
+              alt="GitHub Stats" 
+              height="200" 
+              style="padding-right: 10px;" 
+              src="https://github-readme-stats.vercel.app/api?username=Geronimo-augusto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+            />
+          <img 
+              align="left" 
+              alt="GitHub Stats" 
+              height="200" 
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geronimo-augusto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide=jupyter%20notebook" 
+          />
+        </p>
   </div>    
 
 ##
